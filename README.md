@@ -24,19 +24,9 @@ Este é um desafio proposto pelo programa **ONE (Oracle Next Education)** em par
 ---
 
 
----
-
-## 📥 Como Executar o Projeto?
-
-1. **Clone este repositório** no seu computador:
-   ```sh
-   git clone https://github.com/dnnyzap/challenge-amigo-secreto-one-oracle.git
-2. **Acesse a pasta do projeto**
-
-   cd challenge-amigo-secreto-one-oracle/challenge-amigo-secreto_pt-main
-3. **Abra o arquivo index.html no navegador.**
 
  ##  🛠 Melhorias Futuras
+ 
 🔹 Melhorias na interface (UI/UX).
 🔹 Possibilidade de remover nomes da lista.
 🔹 Implementação de um histórico de sorteios.
