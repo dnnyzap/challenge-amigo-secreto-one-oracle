@@ -1,4 +1,3 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 let amigos = [];
 
 function exibeTextoNatela(tag, texto){
@@ -69,10 +68,13 @@ function sortearAmigo(){
 }
 
 
+
 function limparListaAmigos(){
+    amigos=[];
     let listaAmigos = document.getElementById('listaAmigos');
     let listaSorteado = document.getElementById('resultado');
 
     listaAmigos.innerHTML = '';
     listaSorteado.innerHTML = '';
+
 }

@@ -88,8 +88,12 @@ body {
 }
 
 .button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     width: 300px;
     justify-content: center;
+       
 }
 
 /* Estilos de entrada de texto */
@@ -152,6 +156,15 @@ ul {
     background-color: var(--color-button);
     font-size: 16px;
 }
+.limparListaAmigos {
+    background-color: var(--color-tertiary);
+    color: var(--color-text);
+}
+
+.limparListaAmigos:hover {
+    background-color: #a1a1a1;
+}
+
 
 .button-draw img {
     margin-right: 40px;
